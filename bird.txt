@@ -1,0 +1,3 @@
+client id   609441188878-gj7sj9mht2a7f0h2qg266f3dn1739mfs.apps.googleusercontent.com
+
+secret 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
